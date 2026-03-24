@@ -1,43 +1,82 @@
-**Programming Logic Exercises – Beecrowd**
+# 💻 C++ Programming Challenges
 
-This repository contains my solutions to programming logic problems from the Beecrowd platform, implemented in C++.
+This repository contains solutions to programming logic exercises using the C++ language.  
+All problems were taken from the Beecrowd platform, which offers a wide variety of challenges to improve algorithmic thinking and coding skills.
 
-The goal is to strengthen core fundamentals such as:
+---
 
-.Conditional statements
+## 🎯 Goals
 
-.Loops and control flow
+The main objectives of this repository are:
 
-.Input and output handling
+- 🧠 Practice problem-solving using C++
+- ⚙️ Strengthen programming logic and algorithm fundamentals
+- 🚀 Build a solid foundation for more complex software development
 
-.Algorithmic thinking
+---
 
-.Problem-solving skills
+## 🛠️ Technologies
 
-**File Structure**
+The main language used in this repository:
 
-All files follow this naming convention:
+- C++
 
-exercise_number - problem_name.cpp
+---
 
-**How to Run**
+## 📂 Repository Structure
 
-To execute the files using Visual Studio Code:
+Each solution is organized into individual C++ files, usually named according to the problem title and ID.
 
-Install the extension: C/C++ Compile Run
+### Example:
 
-Open any .cpp file
+```
+Beginner/
+│
+├── number - name.cpp
+├── number - name.cpp
+├── number - name.cpp
+└── ...
+Data Structures and Libraries/
+│
+├── number - name.cpp
+├── number - name.cpp
+├── number - name.cpp
+└── ...
+...
+```
 
-Click "Compile and Run"
+Each file contains:
 
-**Purpose**
+- ✔️ Complete solution written in C++  
+- ✔️ Clean and readable code  
+- ✔️ Best practices when possible
+- ✔️ Commented exercice
 
-This repository serves as:
+---
 
-.A record of my learning progress
+## 📈 Progress
 
-.Continuous logic training
+I will continuously update this repository as I solve more problems and improve my skills.
 
-.A strong foundation for Data Structures & Algorithms
+---
 
-.C++ practice
+## 👨‍💻 Author
+
+**Erick Mendes Rocha**  
+Computer Engineering Student passionate about software development, algorithms, and technology.
+
+---
+
+## 🔗 Beecrowd Profile
+
+👉 https://judge.beecrowd.com/pt/profile/1036040
+
+---
+
+## 📄 License
+
+This project is open for educational purposes and personal learning.
+
+---
+
+⭐ If you find this repository useful, feel free to star it!
